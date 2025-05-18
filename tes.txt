@@ -1,0 +1,3 @@
+Nama = Naufal Arif
+Divisi = Programming
+Sub Divisi = Wen Programming
